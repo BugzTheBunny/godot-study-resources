@@ -61,4 +61,5 @@ This repository contains (Or will contain):
     *A curated list of free/libre games, plugins, add-ons and scripts for Godot.*
 - [GodotExtra](https://godotextra.com/)  
     *Has cool stuff for godot*
-    
+
+- [Universal LPC Spritesheet Generator](https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Body_color_light&head=Human_male_light)
