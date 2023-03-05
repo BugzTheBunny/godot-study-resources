@@ -35,6 +35,8 @@ This repository contains (Or will contain):
             - `GD 3.5` [Tutorial: How to use LDtk with Godot 3.5](https://www.youtube.com/watch?v=EJym1soK18E&ab_channel=SlickGames) - `Level Designer Toolkit`
             - `GD 3.2` [Create 2D light](https://www.youtube.com/watch?v=j_FMsL_ru1w&ab_channel=bitbrain)
             - `GD 3.2` [Parralax Scrolling Background](https://www.youtube.com/watch?v=f8z4x6R7OSM&ab_channel=bitbrain)
+            - `GD 4` [How to Use the New TileMap in Godot 4](https://www.youtube.com/watch?v=tQSL2scuqeU&t=101s&ab_channel=PlayWithFurcifer)
+            - `GD 4` [Platformer Game Quick Start Guide for Godot 4 Beta](https://www.youtube.com/watch?v=BhBQhmtFUd8&t=386s&ab_channel=Chris%27Tutorials)
 ---
 # Free Assets
 - Contains Everything:
