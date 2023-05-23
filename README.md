@@ -12,7 +12,14 @@ This repository contains (Or will contain):
 # Study Resources
 
 - Read:
-    - [Godot 3.5 Docs](https://docs.godotengine.org/en/stable/)
+    - [Godot 4 Docs](https://docs.godotengine.org/en/stable/)
+
+- Read Articles:
+    - Latest Godot Articles:
+        - [Godot General - Medium](https://medium.com/tag/godot/latest)
+        - [Godot 4 - Medium](https://medium.com/tag/godot-4/latest)
+    - [Godot 4 —The Engine Of Your Next Favorite Game](https://tomaszs2.medium.com/godot-4-the-engine-of-your-next-favorite-game-20642464820)
+    - [Godot Tips and Best Practice](https://freetimedev.medium.com/godot-tips-and-best-practice-558645683aa7)
 
 - Watch:
     - Youtube Channels:
@@ -27,6 +34,7 @@ This repository contains (Or will contain):
             - `GD 3.X` [Godot Doom Clone](https://www.youtube.com/watch?v=lp1xmIk8-x0&list=PL8zFvrwKVF4h_sqmepUDveicsEkvGUhFb&ab_channel=LukeRS)
             - ④ **`GD 4`** [Make a Vampire Survivors Clone in Godot 4](https://www.youtube.com/watch?v=abA7TF7z6W8&list=PLtosjGHWDab682nfZ1f6JSQ1cjap7Ieeb&ab_channel=Branno)
             - ④ **`GD 4`** [Godot 4 Crash Course for Beginners - GameDev 2D Top Down Tutorial](https://www.youtube.com/watch?v=Luf2Kr5s3BM&ab_channel=Chris%27Tutorials)
+            - ④ **`GD 4`** [Godot 4 Tutorial - Heart Platformer](https://www.youtube.com/watch?v=M8-JVjtJlIQ&list=PL9FzW-m48fn0i9GYBoTY-SI3yOBZjH1kJ&ab_channel=HeartBeast)
         - ***Short tutorials / videos***:
             - [8 changes to GDScript in Godot 4 you'll want to know about](https://www.youtube.com/watch?v=8BgAeN4RRR4&ab_channel=TheShaggyDev)
             - [How to Easily Save Games with Resources in Godot](https://www.youtube.com/watch?v=TGdQ57qCCF0&ab_channel=GDQuest)
@@ -37,7 +45,9 @@ This repository contains (Or will contain):
             - `GD 3.2` [Parralax Scrolling Background](https://www.youtube.com/watch?v=f8z4x6R7OSM&ab_channel=bitbrain)
             - `GD 4` [How to Use the New TileMap in Godot 4](https://www.youtube.com/watch?v=tQSL2scuqeU&t=101s&ab_channel=PlayWithFurcifer)
             - `GD 4` [Platformer Game Quick Start Guide for Godot 4 Beta](https://www.youtube.com/watch?v=BhBQhmtFUd8&t=386s&ab_channel=Chris%27Tutorials)
----
+            - `GD 4` [Godot 4 Your First Shader](https://www.youtube.com/watch?v=58PtKWm26nM&ab_channel=GlitchedCode)
+
+---         
 # Free Assets
 - Contains Everything:
     - [itch.io](https://itch.io/game-assets/free)
